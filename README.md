@@ -2,5 +2,5 @@
 Project Preview.
 ---------------------------------------------------------------------
 :pushpin: Home:
-![Home page](https://github.com/aatushar/Basic-Flutter-App/blob/main/Basic%20Flutter%20App/lib/second_screen%20pic.PNG)
+![Home page](https://github.com/aatushar/State-Management-with-GetX/blob/main/state_management_with_getX/Capture.PNG)
 
